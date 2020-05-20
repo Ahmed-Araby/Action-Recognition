@@ -1,2 +1,2 @@
 # Action-Recognition
-Deep Learning model "C3D" for Action Recognition task using keras
+"C3D" Deep Learning model for Action Recognition task using keras
